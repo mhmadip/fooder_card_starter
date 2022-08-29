@@ -1,6 +1,7 @@
 # fcard_starter
 
-A new Flutter project.
+This is a starter app for OOP1 Chpater 4 Understanding Widgets 29 August 2022. 
+
 
 ## Getting Started
 
